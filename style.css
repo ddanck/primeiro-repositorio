@@ -1,16 +1,29 @@
+nav{
+    font-size: 20px;
+}
+nav li{display:grid;
+    margin:0;
+}
+
 h1{
 color: rgb(177, 135, 216);
-
+margin: 0 0 0 40%;
 }
 
 .rosa{
-    width: 200px;
-    height: 100px;
-    border: solid 5px black;
+    width: 1000px;
+    height: 500px;
     margin-left: 5%;
     padding: 10px;
 }
 .letras{
     width: 200px;
     height: 100px;
+}
+h2{
+    margin:0 0 0 5%;
+
+}
+h3{
+    margin:0 0 0 2%;
 }
